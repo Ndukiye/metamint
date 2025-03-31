@@ -2,7 +2,7 @@
   "name": "MetaMint",
   "symbol": "METAMINT",
   "description": "MetaMint is a token with 5% transaction fee (2% to liquidity, 3% to marketing) and staking mechanism.",
-  "image": "https://raw.githubusercontent.com/YOUR_USERNAME/metamint/main/logo.png",
+  "image": "https://raw.githubusercontent.com/YOUR_USERNAME/metamint/main/logo.jpg",
   "external_url": "https://your-website.com",
   "attributes": [
     {
